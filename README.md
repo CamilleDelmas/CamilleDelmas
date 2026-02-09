@@ -10,7 +10,7 @@ Après 10 ans dans le secteur du digital en tant que webmaster puis chargée e-c
 - Je recherche un stage de fin d'étude dans la région toulousaine
 
 ## 📫 Comment me contacter  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/delmascamille/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delmascamille/)
 
 ## Mes skills 
 
